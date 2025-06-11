@@ -1,8 +1,12 @@
 /* style.css */
 
-p {
+.odd {
     background-color: rgb(226, 147, 158);
     font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.special-font {
+    font-size: 36px;
 }
 
 #num2 {
