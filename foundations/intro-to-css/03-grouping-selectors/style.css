@@ -1,0 +1,14 @@
+/* style.css */
+
+.font {
+    font-size: 28px;
+    font-family: "Times New Roman", Helvetica, sans-serif
+}
+
+#color-1 {
+    color: hsl(0, 0%, 100%);
+}
+
+#color-2 {
+    color: rgb(0,0,0)
+}
